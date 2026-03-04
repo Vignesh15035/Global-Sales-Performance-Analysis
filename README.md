@@ -9,11 +9,11 @@ The dashboard enables stakeholders to monitor business KPIs and make data-driven
 
 To analyze global sales data and answer key business questions:
 
-What is the total revenue and profit?
-Which regions generate the highest sales?
-Which products are most profitable?
-How do sales trend monthly?
-What is the contribution of online vs offline sales?
+*What is the total revenue and profit?
+*Which regions generate the highest sales?
+*Which products are most profitable?
+*How do sales trend monthly?
+*What is the contribution of online vs offline sales?
 
 **🛠 Tools & Technologies Used**
 
